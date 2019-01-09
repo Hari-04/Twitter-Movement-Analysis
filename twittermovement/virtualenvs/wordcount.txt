@@ -1,0 +1,7 @@
+streamparse # always required for streamparse projects
+pykafka
+nltk
+spacy
+elasticsearch
+bs4
+geopy
